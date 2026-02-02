@@ -181,5 +181,126 @@
 5. Централізоване керування (vCenter).
 
 
+1. Порівняння гіпервізорів типу 1 та типу 2
 
+Гіпервізор — це програмний або апаратно-програмний засіб для створення і керування віртуальними машинами.
 
+— Гіпервізор типу 1 (bare-metal):
+
+- Працює безпосередньо на апаратному забезпеченні
+- Не потребує хост-ОС
+- Висока продуктивність і надійність
+- Використовується на серверах і в дата-центрах
+- Приклади: VMware ESXi, Xen, Microsoft Hyper-V Server
+
+— Гіпервізор типу 2 (hosted)
+
+- Працює поверх встановленої ОС
+- Простий у встановленні та використанні
+- Менша продуктивність порівняно з типом 1
+- Використовується для навчання та тестування
+
+Приклади: VirtualBox, VMware
+
+— Основна відмінність:
+Тип 1 працює напряму з «залізом», тип 2 — через хост-ОС.
+
+2. GNU GPL — основна концепція
+
+GNU GPL (General Public License) — ліцензія вільного програмного забезпечення, створена проєктом GNU.
+
+Основна концепція — copyleft:
+
+- вільне використання програми;
+- доступ до вихідного коду;
+- можливість змінювати;
+- можливість поширювати.
+
+!!! Усі модифіковані версії також повинні поширюватися під GPL. !!!
+
+3. Суть програмного забезпечення з відкритим кодом
+
+Open Source ПЗ — це програмне забезпечення, вихідний код якого відкритий і доступний для всіх.
+
+Основні принципи:
+
+прозорість коду;
+
+можливість модифікації;
+
+вільне поширення;
+
+розвиток спільнотою.
+
+- Переваги: безпека, гнучкість, відсутність ліцензійних обмежень.
+
+4. Що таке дистрибутив?
+
+Дистрибутив Linux — це готовий набір програмного забезпечення, що включає:
+- ядро Linux;
+- системні утиліти;
+- менеджер пакетів;
+- інсталятор;
+- графічне середовище.
+
+Приклади: Ubuntu, Debian, Fedora, Arch Linux, Kali Linux.
+
+5. Задачі системного адміністрування в Linux
+
+На базі ОС Linux можна реалізувати:
+- керування користувачами і правами доступу;
+- налаштування мережі;
+- файлові та мережеві сервіси;
+- web-сервери (Apache, Nginx);
+- поштові сервери;
+- резервне копіювання;
+- моніторинг системи;
+- автоматизацію (bash, cron);
+- контейнеризацію (Docker).
+
+6. Зв’язок між Android та Linux
+
+- ОС Android базується на ядрі Linux.
+Відмінності:
+- Android не використовує GNU-утиліти;
+- має власні бібліотеки;
+- інший підхід до керування програмами.
+
+Android — це мобільна ОС на базі ядра Linux, але не класичний Linux-дистрибутив.
+
+7. Embedded Linux: можливості та застосування
+
+Embedded Linux — спеціалізована версія Linux для вбудованих систем.
+Основні можливості:
+- мінімальний розмір;
+- висока стабільність;
+- швидке завантаження;
+- робота без графічного інтерфейсу.
+
+Сфера використання:
+- роутери;
+- Smart TV;
+- IoT-пристрої;
+- автомобільна електроніка;
+- промислові контролери.
+
+8. Зміна режиму завантаження Linux (CLI / GUI)
+
+У сучасних системах з systemd:
+
+- Текстовий режим (рівень 3):
+sudo systemctl set-default multi-user.target
+
+- Графічний режим (рівень 5):
+sudo systemctl set-default graphical.target
+І reboot
+
+Відмінність між CLI та GUI
+CLI (Command Line Interface) - текстовий інтерфейс, менше ресурсів, менше ресурсів, висока швидкість, переважно використовується на серверах  /	GUI (Graphical User Interface) - графічний інтерфейс, більше ресурсів, зручність для користувача, робочі станції.
+
+Conclusion:
+
+In this work, the fundamentals of virtualization and Linux-based operating systems were studied. The differences between Type 1 and Type 2 hypervisors were analyzed, showing that bare-metal hypervisors are mainly used in server environments, while hosted hypervisors such as VirtualBox are suitable for learning and testing.
+The concepts of GNU GPL and open-source software were reviewed, emphasizing their core idea of freedom to use, modify, and distribute software. Linux distributions were defined as complete operating system packages built around the Linux kernel.
+Key Linux system administration tasks were outlined, including user management, networking, server configuration, and automation. The relationship between Android and Linux was explained through their shared Linux kernel. Embedded Linux was identified as a flexible solution for resource-limited devices such as IoT systems and industrial controllers.
+Finally, Linux boot modes and interface types (CLI and GUI) were compared, highlighting their different purposes in server and desktop environments. Overall, Linux provides a powerful, flexible, and open platform suitable for desktops, servers, embedded systems, and virtualization.
