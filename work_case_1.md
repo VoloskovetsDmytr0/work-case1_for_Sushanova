@@ -44,3 +44,9 @@ git pull	Завантажує чужі зміни з інтернету на в�
 Хеш (Hash): Кожному комміту присвоюється унікальний ідентифікатор (набір букв і цифр), що дозволяє точно відрізнити одну версію від іншої.
 
 Авторство та час: Завжди відомо, хто саме (ім'я автора), коли (дата) і що саме змінив (опис змін).
+
+Волосковець Дмитро:
+
+Conclusion
+
+Git is a powerful tool for version control that helps organize development, track changes, and collaborate efficiently. Commits play a key role by recording every modification and creating a complete history of the project. Using Git improves reliability, productivity, and code quality.
