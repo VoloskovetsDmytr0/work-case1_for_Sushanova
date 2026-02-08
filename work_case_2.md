@@ -39,7 +39,7 @@
 3. Встановіть в вашому гіпервізорі операційну систему GNU/Linux (будь-який зручний Вам дистрибутив) у базовій конфігурації з графічною оболонкою.
 
 
- <a href="https://ibb.co/F4ZD73sM"><img src="https://i.ibb.co/9HKrYgwL/Screenshot-2026-02-08-131150.png" alt="Screenshot-2026-02-08-131150" border="0"></a> 
+ <a href="https://ibb.co/7NCmcPs2"><img src="https://i.ibb.co/Z1XDs5qW/image.png" alt="image" border="0"></a>
  <a href="https://ibb.co/RKnPKFm"><img src="https://i.ibb.co/c95t9BH/image.png" alt="image" border="0"></a>
  <a href="https://ibb.co/gF9CBxV1"><img src="https://i.ibb.co/yBPJbrST/image.png" alt="image" border="0"></a>
  <a href="https://ibb.co/6RhkZ7tf"><img src="https://i.ibb.co/C5dft39T/image.png" alt="image" border="0"></a>
