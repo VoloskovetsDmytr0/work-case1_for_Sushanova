@@ -47,3 +47,8 @@
  <a href="https://ibb.co/yFrLc84r"><img src="https://i.ibb.co/4RHBnj1H/image.png" alt="image" border="0"></a>
  <a href="https://ibb.co/NdKgFZ0m"><img src="https://i.ibb.co/Pvgsrw29/image.png" alt="image" border="0"></a>
  <a href="https://ibb.co/hx43F11R"><img src="https://i.ibb.co/20CG3YY7/image.png" alt="image" border="0"></a>
+
+4. Створіть другу віртуальну машину та виконайте для неї наступні дії:
+- Встановіть у мінімальній конфігурації з термінальним вводом-виводом без графічного інтерфейсу операційну систему GNU/Linux;
+- Встановіть графічну оболонку GNOME поверх встановленої в попередньому пункті ОС;
+- Встановіть додатково ще другу графічну оболонку та порівняйте її можливості з GNOME.
