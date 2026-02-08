@@ -36,5 +36,9 @@
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/zTR63YfX/image.png" alt="зображення" border="0"></a>
 - 2.11 Підтвердьте створення — віртуальна машина з’явиться у списку.
 
-- 3. Встановіть в вашому гіпервізорі операційну систему GNU/Linux (будь-який зручний Вам дистрибутив) у базовій конфігурації з графічною оболонкою.
+3. Встановіть в вашому гіпервізорі операційну систему GNU/Linux (будь-який зручний Вам дистрибутив) у базовій конфігурації з графічною оболонкою.
+
+
+ <a href="https://ibb.co/F4ZD73sM"><img src="https://i.ibb.co/9HKrYgwL/Screenshot-2026-02-08-131150.png" alt="Screenshot-2026-02-08-131150" border="0"></a> 
  <a href="https://ibb.co/GQ0YrSNh"><img src="https://i.ibb.co/7tXM0mL9/image.png" alt="image" border="0"></a>
+ <a href="https://ibb.co/0pqCPddk"><img src="https://i.ibb.co/TDc4zFFZ/image.png" alt="image" border="0"></a>
