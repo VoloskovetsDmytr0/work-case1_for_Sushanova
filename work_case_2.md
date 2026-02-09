@@ -50,5 +50,16 @@
 
 4. Створіть другу віртуальну машину та виконайте для неї наступні дії:
 - Встановіть у мінімальній конфігурації з термінальним вводом-виводом без графічного інтерфейсу операційну систему GNU/Linux;
+  За основу взяв Ubuntu Server, як раз без GUI:
+  <a href="https://ibb.co/1Jm2k3d9"><img src="https://i.ibb.co/Z1MT03Yh/image.png" alt="image" border="0"></a>
 - Встановіть графічну оболонку GNOME поверх встановленої в попередньому пункті ОС;
+
+  Для початку треба оновити усі пакети:
+  <a href="https://ibb.co/jvSvhWCQ"><img src="https://i.ibb.co/tM9MBx0v/image.png" alt="image" border="0"></a>
+  <a href="https://ibb.co/M525zW1t"><img src="https://i.ibb.co/vvwvNgdT/image.png" alt="image" border="0"></a>
+Тепер встановлю GNOME:
+  <a href="https://ibb.co/hJKRsKq2"><img src="https://i.ibb.co/VcvWVvKM/image.png" alt="image" border="0"></a>
+  <a href="https://ibb.co/TBfz72W9"><img src="https://i.ibb.co/yn9LZP4H/image.png" alt="image" border="0"></a>
+Застосовуємо інтерфейс і перезапускаємось:
+<a href="https://ibb.co/qTZY5xY"><img src="https://i.ibb.co/Xcwx8Vx/image.png" alt="image" border="0"></a>
 - Встановіть додатково ще другу графічну оболонку та порівняйте її можливості з GNOME.
