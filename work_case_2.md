@@ -62,4 +62,6 @@
   <a href="https://ibb.co/TBfz72W9"><img src="https://i.ibb.co/yn9LZP4H/image.png" alt="image" border="0"></a>
 Застосовуємо інтерфейс і перезапускаємось:
 <a href="https://ibb.co/qTZY5xY"><img src="https://i.ibb.co/Xcwx8Vx/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/gZwP8qXy"><img src="https://i.ibb.co/d46LvC3B/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/GfDJ9Djc"><img src="https://i.ibb.co/bjV3FVnz/image.png" alt="image" border="0"></a>
 - Встановіть додатково ще другу графічну оболонку та порівняйте її можливості з GNOME.
