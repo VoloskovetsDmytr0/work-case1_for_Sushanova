@@ -47,7 +47,7 @@
  <a href="https://ibb.co/yFrLc84r"><img src="https://i.ibb.co/4RHBnj1H/image.png" alt="image" border="0"></a>
  <a href="https://ibb.co/NdKgFZ0m"><img src="https://i.ibb.co/Pvgsrw29/image.png" alt="image" border="0"></a>
  <a href="https://ibb.co/hx43F11R"><img src="https://i.ibb.co/20CG3YY7/image.png" alt="image" border="0"></a>
-
+ <a href="https://ibb.co/kgZg6qwR"><img src="https://i.ibb.co/rG9Gf5zC/image.png" alt="image" border="0"></a>
 4. Створіть другу віртуальну машину та виконайте для неї наступні дії:
 - Встановіть у мінімальній конфігурації з термінальним вводом-виводом без графічного інтерфейсу операційну систему GNU/Linux;
   За основу взяв Ubuntu Server, як раз без GUI:
