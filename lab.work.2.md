@@ -201,6 +201,7 @@
 Виконання системних дій у графічному інтерфейсі Ubuntu:
 
 * **Перезавантаження та вимкнення:** Здійснюється через системне меню у правому верхньому куті.
+    <a href="https://ibb.co/ymHw7GGj"><img src="https://i.ibb.co/35gDQGGZ/image.png" alt="image" border="0"></a>
 * **Загальний вигляд середовища:** Робота проводилась у віртуальному середовищі **Oracle VirtualBox**.
     <a href="https://ibb.co/n84sr37s"><img src="https://i.ibb.co/x8wShm1S/image.png" alt="image" border="0"></a>
 
@@ -224,7 +225,8 @@
 Система дозволяє моніторити технічний стан батареї.
 * **Поточна максимальна ємність:** 86%
 * **Кількість циклів:** 902
-<a href="https://ibb.co/67Jxzvm7"><img src="https://i.ibb.co/0RVSTBcR/photo-2026-02-12-22-50-31-3.jpg" alt="iOS Battery Status" border="0"></a>
+
+  <a href="https://ibb.co/67Jxzvm7"><img src="https://i.ibb.co/0RVSTBcR/photo-2026-02-12-22-50-31-3.jpg" alt="iOS Battery Status" border="0"></a>
 
 ---
 
