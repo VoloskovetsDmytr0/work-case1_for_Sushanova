@@ -1,69 +1,94 @@
-Виконали Волосковець Дмитро та Перевишко Денис
---------------------------------------------------
-1. Встановіть на своїй домашній робочій станції гіпервізор ІІ типу – Virtual Box, VMWare Workstation, Hyper-V (або інший на Ваш вибір).
+# 🖥️ WORK-CASE-2
+**👨‍💻 Виконали:** Волосковець Дмитро та Перевишко Денис
 
-- Я обрав собі VirtualBox, оскільки працюю з ним давно і він вже в мене встановлений.
-  <a href="https://ibb.co/tpmMbLx5"><img src="https://i.ibb.co/zVnhS67w/image.png" alt="image" border="0"></a>
-2. Опишіть набір базових дій в встановленому Вами гіпервізорі (VirtualBox):
-- Створення нової віртуальної машини в VirtualBox
+---
 
-- 2.1 Запустіть Oracle VM VirtualBox.
+## 🏗️ 1. Налаштування середовища віртуалізації
 
-- 2.2 Натисніть кнопку «Створити» (New).
-<a href="https://ibb.co/BVwQKRqD"><img src="https://i.ibb.co/Fbnyqtgv/image.png" alt="image" border="0"></a>
+Для виконання роботи було обрано **Oracle VM VirtualBox**. Це популярний гіпервізор ІІ типу, що дозволяє створювати ізольовані середовища для тестування ПЗ.
 
+> **Статус:** Гіпервізор встановлено та готово до роботи.
 
+<p align="center">
+  <a href="https://ibb.co/tpmMbLx5"><img src="https://i.ibb.co/zVnhS67w/image.png" alt="Головне вікно VirtualBox" width="80%"></a>
+</p>
 
-- У вікні, що з’явиться:
+---
 
-- 2.3 Ім’я — введіть назву ВМ (наприклад, Ubuntu_22.04).
+## ⚙️ 2. Створення віртуальної машини (Step-by-Step)
 
-- 2.4 Тип ОС — оберіть тип (Linux, Windows тощо).
+Процес конфігурування нової ВМ для ОС Ubuntu:
 
-- 2.5 Версія — відповідну версію ОС.
- <a href="https://ibb.co/wNgJNkLh"><img src="https://i.ibb.co/xSLmSksq/image.png" alt="image" border="0"></a>
+| Крок | Опис дії | Скріншот підтвердження |
+|:---:|:---|:---:|
+| **01** | Ініціалізація створення нової машини через кнопку **New**. | <a href="https://ibb.co/BVwQKRqD"><img src="https://i.ibb.co/Fbnyqtgv/image.png" width="250"></a> |
+| **02** | Вибір назви (`Ubuntu_22.04`), типу ОС (Linux) та версії. | <a href="https://ibb.co/wNgJNkLh"><img src="https://i.ibb.co/xSLmSksq/image.png" width="250"></a> |
+| **03** | Визначення обсягу оперативної пам'яті (RAM). | <a href="https://imgbb.com/"><img src="https://i.ibb.co/3mWy6XSc/image.png" width="250"></a> |
+| **04** | Налаштування віртуального диска (VDI, 20-50 ГБ). | <a href="https://imgbb.com/"><img src="https://i.ibb.co/zTR63YfX/image.png" width="250"></a> |
 
+---
 
-- 2.6 Виділіть обсяг оперативної пам’яті (RAM) за допомогою повзунка.
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/3mWy6XSc/image.png" alt="зображення" border="0"></a>
-- 2.7 Створіть віртуальний жорсткий диск:
+## 🐧 3. Встановлення ОС GNU/Linux (GUI)
 
-- 2.8 Тип диска: VDI (VirtualBox Disk Image).
+Було виконано повний цикл встановлення дистрибутиву Ubuntu з графічною оболонкою. Основні етапи представлені нижче:
 
-- 2.9 Формат: динамічно розподілений або фіксований.
+<p align="center">
+  <img src="https://i.ibb.co/Z1XDs5qW/image.png" width="30%" />
+  <img src="https://i.ibb.co/c95t9BH/image.png" width="30%" />
+  <img src="https://i.ibb.co/yBPJbrST/image.png" width="30%" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/C5dft39T/image.png" width="30%" />
+  <img src="https://i.ibb.co/MJmf0ns/image.png" width="30%" />
+  <img src="https://i.ibb.co/4RHBnj1H/image.png" width="30%" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/Pvgsrw29/image.png" width="30%" />
+  <img src="https://i.ibb.co/20CG3YY7/image.png" width="30%" />
+  <img src="https://i.ibb.co/rG9Gf5zC/image.png" width="30%" />
+</p>
 
-- 2.10 Вкажіть розмір диска (наприклад, 20–50 ГБ).
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/zTR63YfX/image.png" alt="зображення" border="0"></a>
-- 2.11 Підтвердьте створення — віртуальна машина з’явиться у списку.
+---
 
-3. Встановіть в вашому гіпервізорі операційну систему GNU/Linux (будь-який зручний Вам дистрибутив) у базовій конфігурації з графічною оболонкою.
+## 🛠️ 4. Робота з Server-версією та оболонками
 
+### 4.1 Встановлення Ubuntu Server (CLI)
+Для мінімізації споживання ресурсів спершу встановлено систему без графіки.
 
- <a href="https://ibb.co/7NCmcPs2"><img src="https://i.ibb.co/Z1XDs5qW/image.png" alt="image" border="0"></a>
- <a href="https://ibb.co/RKnPKFm"><img src="https://i.ibb.co/c95t9BH/image.png" alt="image" border="0"></a>
- <a href="https://ibb.co/gF9CBxV1"><img src="https://i.ibb.co/yBPJbrST/image.png" alt="image" border="0"></a>
- <a href="https://ibb.co/6RhkZ7tf"><img src="https://i.ibb.co/C5dft39T/image.png" alt="image" border="0"></a>
- <a href="https://ibb.co/yxrpj0X"><img src="https://i.ibb.co/MJmf0ns/image.png" alt="image" border="0"></a>
- <a href="https://ibb.co/yFrLc84r"><img src="https://i.ibb.co/4RHBnj1H/image.png" alt="image" border="0"></a>
- <a href="https://ibb.co/NdKgFZ0m"><img src="https://i.ibb.co/Pvgsrw29/image.png" alt="image" border="0"></a>
- <a href="https://ibb.co/hx43F11R"><img src="https://i.ibb.co/20CG3YY7/image.png" alt="image" border="0"></a>
- <a href="https://ibb.co/kgZg6qwR"><img src="https://i.ibb.co/rG9Gf5zC/image.png" alt="image" border="0"></a>
-4. Створіть другу віртуальну машину та виконайте для неї наступні дії:
-- Встановіть у мінімальній конфігурації з термінальним вводом-виводом без графічного інтерфейсу операційну систему GNU/Linux;
-  За основу взяв Ubuntu Server, як раз без GUI:
-  <a href="https://ibb.co/1Jm2k3d9"><img src="https://i.ibb.co/Z1MT03Yh/image.png" alt="image" border="0"></a>
-- Встановіть графічну оболонку GNOME поверх встановленої в попередньому пункті ОС;
+<p align="center">
+  <a href="https://ibb.co/1Jm2k3d9"><img src="https://i.ibb.co/Z1MT03Yh/image.png" alt="Ubuntu Server" width="70%"></a>
+</p>
 
-  Для початку треба оновити усі пакети:
-  <a href="https://ibb.co/jvSvhWCQ"><img src="https://i.ibb.co/tM9MBx0v/image.png" alt="image" border="0"></a>
-  <a href="https://ibb.co/M525zW1t"><img src="https://i.ibb.co/vvwvNgdT/image.png" alt="image" border="0"></a>
-Тепер встановлю GNOME:
-  <a href="https://ibb.co/hJKRsKq2"><img src="https://i.ibb.co/VcvWVvKM/image.png" alt="image" border="0"></a>
-  <a href="https://ibb.co/TBfz72W9"><img src="https://i.ibb.co/yn9LZP4H/image.png" alt="image" border="0"></a>
-Застосовуємо інтерфейс і перезапускаємось:
-  <a href="https://ibb.co/qTZY5xY"><img src="https://i.ibb.co/Xcwx8Vx/image.png" alt="image" border="0"></a>
-  <a href="https://ibb.co/gZwP8qXy"><img src="https://i.ibb.co/d46LvC3B/image.png" alt="image" border="0"></a>
-  <a href="https://ibb.co/GfDJ9Djc"><img src="https://i.ibb.co/bjV3FVnz/image.png" alt="image" border="0"></a>
-- Встановіть додатково ще другу графічну оболонку та порівняйте її можливості з GNOME.
-Взяв за другу граф. оболонку XFCE, оскільки це був мій варіант:
- <a href="https://ibb.co/7dbSdDwQ"><img src="https://i.ibb.co/jPH8PYcz/image.png" alt="image" border="0"></a>
+### 4.2 Розгортання графічної оболонки GNOME
+Встановлення інтерфейсу поверх серверної версії за допомогою команд `apt update` та `apt install ubuntu-desktop`.
+
+**Етапи оновлення та встановлення:**
+<p align="center">
+  <img src="https://i.ibb.co/tM9MBx0v/image.png" width="45%" />
+  <img src="https://i.ibb.co/vvwvNgdT/image.png" width="45%" />
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/VcvWVvKM/image.png" width="45%" />
+  <img src="https://i.ibb.co/yn9LZP4H/image.png" width="45%" />
+</p>
+
+**Фінальний запуск GNOME:**
+<p align="center">
+  <img src="https://i.ibb.co/Xcwx8Vx/image.png" width="30%" />
+  <img src="https://i.ibb.co/d46LvC3B/image.png" width="30%" />
+  <img src="https://i.ibb.co/bjV3FVnz/image.png" width="30%" />
+</p>
+
+---
+
+### 4.3 Додаткова оболонка: XFCE
+Для порівняння було обрано легку оболонку **XFCE**. Вона споживає значно менше ресурсів порівняно з GNOME, що робить її ідеальною для слабких ПК.
+
+<p align="center">
+  <a href="https://ibb.co/7dbSdDwQ"><img src="https://i.ibb.co/jPH8PYcz/image.png" alt="XFCE Interface" width="70%"></a>
+</p>
+
+---
+
+## ✅ Висновок
+В результаті виконання роботи було вивчено функціонал гіпервізора **VirtualBox**. Проведено успішне розгортання ОС Ubuntu у двох варіантах: з попередньо встановленим GUI та на базі Server-версії з подальшим ручним встановленням оболонок **GNOME** та **XFCE**. Це дало змогу оцінити гнучкість Linux-систем у виборі інтерфейсу користувача.
