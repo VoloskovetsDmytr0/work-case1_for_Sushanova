@@ -189,5 +189,5 @@ tty7 або tty1 (залежить від дистрибутива)
 
 <a href="https://ibb.co/hFj2bFxD"><img src="https://i.ibb.co/b5ZNT5jz/image.png" alt="зображення" border="0"></a>
 <a href="https://ibb.co/n84sr37s"><img src="https://i.ibb.co/x8wShm1S/image.png" alt="image" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/jvFkty8P/image.png" alt="зображення" border="0"></a>
+<a href="https://ibb.co/3mSSwZR7"><img src="https://i.ibb.co/yFggDj4X/image.png" alt="image" border="0"></a>
 <a href="https://ibb.co/nNrTD599"><img src="https://i.ibb.co/G47XVbyy/image.png" alt="image" border="0"></a>
