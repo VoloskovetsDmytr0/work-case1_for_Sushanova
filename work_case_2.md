@@ -85,7 +85,7 @@
 Для порівняння було обрано легку оболонку **XFCE**. Вона споживає значно менше ресурсів порівняно з GNOME, що робить її ідеальною для слабких ПК.
 
 <p align="center">
-  <a href="https://ibb.co/7dbSdDwQ"><img src="https://i.ibb.co/jPH8PYcz/image.png" alt="XFCE Interface" width="70%"></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/M5GGn1wg/image.png" alt="image" border="0"></a>
 </p>
 
 ---
