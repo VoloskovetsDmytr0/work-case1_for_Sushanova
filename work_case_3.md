@@ -27,7 +27,7 @@
  <a href="https://ibb.co/7t5C71FZ"><img src="https://i.ibb.co/d4qMn5yV/image.png" alt="image" border="0"></a>
 - Налаштуйте та продемонструйте обмін повідомленнями між двома ОС по локальній мережі. Які команди в терміналі при цьому необхідно ввести?
 - Налаштуйте спільну мережеву папку для обох ОС. Спробуйте скопіювати файли з цієї директорії в домашній каталог користувача (віртуальна робоча ОС) та на робочій стіл (клон віртуальної робочої ОС).
-4. Яким чином можна організувати обмін інформацією між вашою основною ОС (наприклад Windows) та віртуальними ОС? Скопіюйте довільний аудіо-файл з вашої основної ОС на робочий стіл віртуальної ОС та її клона. Як зробити зворотну дію, коли треба документ з робочого столу віртуальної ОС скопіювати до вашої основної робочої ОС?
+4. Яким чином можна організувати обмін інформацією між вашою основною ОС (наприклад Windows) та віртуальними ОС? Скопіюйте довільний аудіо-файл з вашої основної ОС на робочий стіл віртуальної ОС та її клона.
 <a href="https://ibb.co/Wv4FNGcC"><img src="https://i.ibb.co/jkPG9bLt/image.png" alt="image" border="0"></a>
 <a href="https://ibb.co/Gv2JdvQc"><img src="https://i.ibb.co/wNWLdNhM/image.png" alt="image" border="0"></a>
 <a href="https://ibb.co/8454RXJb"><img src="https://i.ibb.co/jZMZxHdz/image.png" alt="image" border="0"></a>
@@ -38,3 +38,14 @@
 <a href="https://ibb.co/k2jN803P"><img src="https://i.ibb.co/CKgR7vJS/image.png" alt="image" border="0"></a>
 <a href="https://ibb.co/9HHxtw2n"><img src="https://i.ibb.co/jkkCRVGh/image.png" alt="image" border="0"></a>
 <a href="https://ibb.co/6QsfttL"><img src="https://i.ibb.co/SSv9mmG/image.png" alt="image" border="0"></a>
+
+Як зробити зворотну дію, коли треба документ з робочого столу віртуальної ОС скопіювати до вашої основної робочої ОС?
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/M4tpL74/image.png" alt="зображення" border="0"></a>
+<a href="https://ibb.co/SD1qFYsN"><img src="https://i.ibb.co/gbXskqjy/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/B2NSpnY3"><img src="https://i.ibb.co/60BfMXqw/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/kVt059pc/image.png" alt="зображення" border="0"></a>
+<a href="https://ibb.co/WWBdSk76"><img src="https://i.ibb.co/8DPRFrG0/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/chR2qvLv/image.png" alt="зображення" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7J177zkw/image.png" alt="зображення" border="0"></a>
+<a href="https://ibb.co/8D8rpyc7"><img src="https://i.ibb.co/Kjy2ktwr/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Zzn1F122/image.png" alt="зображення" border="0"></a>
