@@ -8,9 +8,13 @@
 <a href="https://ibb.co/7dKrVJRy"><img src="https://i.ibb.co/RkcQPpBH/image.png" alt="image" border="0"></a>
 
 
-
-
 - Може виникнути необхідність перенесення (клонування) ОС у інше віртуальне середовище. Які треба виконати дії для експорту вашої віртуальної робочої ОС?
+<a href="https://ibb.co/0pKvPpts"><img src="https://i.ibb.co/JWqgXWQ3/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/zH5cCYLw"><img src="https://i.ibb.co/prPDN8sp/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/GQT8bSBK"><img src="https://i.ibb.co/SwrM9CWh/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/h1xzwcg7/image.png" alt="зображення" border="0"></a>
+
+  
 2. В ході роботи одна робоча віртуальна машина може взаємодіяти з іншою. Для цього необхідно між ними розгорнути мережу. Опишіть які типи організації мережевих з’єднань підтримуються в середовищі віртуальних машин, в чому особливість кожного з них:
 - Трансляція мережевих адрес (NAT);
 - Мережевий міст (Bridged);
