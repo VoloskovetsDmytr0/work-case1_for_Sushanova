@@ -28,3 +28,9 @@
 - Налаштуйте та продемонструйте обмін повідомленнями між двома ОС по локальній мережі. Які команди в терміналі при цьому необхідно ввести?
 - Налаштуйте спільну мережеву папку для обох ОС. Спробуйте скопіювати файли з цієї директорії в домашній каталог користувача (віртуальна робоча ОС) та на робочій стіл (клон віртуальної робочої ОС).
 4. Яким чином можна організувати обмін інформацією між вашою основною ОС (наприклад Windows) та віртуальними ОС? Скопіюйте довільний аудіо-файл з вашої основної ОС на робочий стіл віртуальної ОС та її клона. Як зробити зворотну дію, коли треба документ з робочого столу віртуальної ОС скопіювати до вашої основної робочої ОС?
+<a href="https://ibb.co/Wv4FNGcC"><img src="https://i.ibb.co/jkPG9bLt/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/Gv2JdvQc"><img src="https://i.ibb.co/wNWLdNhM/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/8454RXJb"><img src="https://i.ibb.co/jZMZxHdz/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/ynJm2RCd"><img src="https://i.ibb.co/kgFVZyT5/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gLzb5fCN/image.png" alt="зображення" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LD77wTsK/image.png" alt="зображення" border="0"></a>
