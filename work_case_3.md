@@ -308,3 +308,11 @@ sudo netplan apply
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/7J177zkw/image.png" alt="зображення" border="0"></a>
 <a href="https://ibb.co/8D8rpyc7"><img src="https://i.ibb.co/Kjy2ktwr/image.png" alt="image" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Zzn1F122/image.png" alt="зображення" border="0"></a>
+
+# Висновок:
+
+
+В результаті виконання завдання між робочою Ubuntu та її клоном було налаштовано локальну мережу. Було перевірено доступність машин через `ping` та організовано обмін повідомленнями. Також продемонстровано передачу файлу з Windows до Ubuntu, зокрема пісні, що підтверджує можливість обміну даними між різними ОС у локальній мережі.  
+
+
+As a result of the task, a local network was configured between the main Ubuntu system and its clone. Connectivity was tested using `ping`, and message exchange was demonstrated. Additionally, a file (a song) was successfully sent from Windows to Ubuntu, confirming that data can be exchanged between different operating systems within the local network.
