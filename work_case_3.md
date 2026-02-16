@@ -282,6 +282,9 @@ sudo netplan apply
   <a href="https://ibb.co/BV9g6BQZ"><img src="https://i.ibb.co/27TjMdCt/image.png" alt="image" border="0"></a>
  <a href="https://ibb.co/7t5C71FZ"><img src="https://i.ibb.co/d4qMn5yV/image.png" alt="image" border="0"></a>
 - Налаштуйте та продемонструйте обмін повідомленнями між двома ОС по локальній мережі. Які команди в терміналі при цьому необхідно ввести?
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/nMQghgsD/image.png" alt="зображення" border="0"></a>
+<a href="https://ibb.co/JwtDBGCS"><img src="https://i.ibb.co/MxSF2t9J/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/2YPLq3P6"><img src="https://i.ibb.co/Z1KwdzKJ/image.png" alt="image" border="0"></a>
 - Налаштуйте спільну мережеву папку для обох ОС. Спробуйте скопіювати файли з цієї директорії в домашній каталог користувача (віртуальна робоча ОС) та на робочій стіл (клон віртуальної робочої ОС).
 4. Яким чином можна організувати обмін інформацією між вашою основною ОС (наприклад Windows) та віртуальними ОС? Скопіюйте довільний аудіо-файл з вашої основної ОС на робочий стіл віртуальної ОС та її клона.
 <a href="https://ibb.co/Wv4FNGcC"><img src="https://i.ibb.co/jkPG9bLt/image.png" alt="image" border="0"></a>
