@@ -279,8 +279,8 @@ sudo netplan apply
 - Застосовує мережеву конфігурацію після редагування YAML-файлу
   
 - Обидві ОС мають мати вихід у мережу Інтернет. Відкрийте браузер та перегляньте будь-яке відео в youtube.
-  <a href="https://ibb.co/BV9g6BQZ"><img src="https://i.ibb.co/27TjMdCt/image.png" alt="image" border="0"></a>
- <a href="https://ibb.co/7t5C71FZ"><img src="https://i.ibb.co/d4qMn5yV/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/BV9g6BQZ"><img src="https://i.ibb.co/27TjMdCt/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/7t5C71FZ"><img src="https://i.ibb.co/d4qMn5yV/image.png" alt="image" border="0"></a>
 - Налаштуйте та продемонструйте обмін повідомленнями між двома ОС по локальній мережі. Які команди в терміналі при цьому необхідно ввести?
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/nMQghgsD/image.png" alt="зображення" border="0"></a>
 <a href="https://ibb.co/JwtDBGCS"><img src="https://i.ibb.co/MxSF2t9J/image.png" alt="image" border="0"></a>
