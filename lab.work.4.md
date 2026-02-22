@@ -75,7 +75,9 @@ top --help
 * `N` — за PID
 * `<` або `>` — зміна поля сортування
 
-(скрін роботи команди top і сортування — вставити після цього пункту)
+<a href="https://ibb.co/PzTRYH0N"><img src="https://i.ibb.co/VpHdN45t/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/wFMHRvJ1"><img src="https://i.ibb.co/PvwpNST8/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/SDGrC5MQ"><img src="https://i.ibb.co/KcSwvbfN/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -100,8 +102,7 @@ top --help
 ```bash
 ls /proc
 ```
-
-(скрін вмісту /proc — вставити тут)
+<a href="https://ibb.co/8nGjRfHh"><img src="https://i.ibb.co/rKqZLzVW/image.png" alt="image" border="0"></a><br />
 
 Директорія `/proc` знаходиться у кореневій файловій системі (`/`).
 Вона є віртуальною файловою системою, що містить інформацію про:
@@ -132,7 +133,7 @@ users
 
 Найчастіше використовується `who` або `w`.
 
-(скрін виконання команди who — вставити тут)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1fXmch6w/image.png" alt="зображення" border="0"></a><br /><a target='_blank' href='https://uk.imgbb.com/'>photo link generator</a><br />
 
 ---
 
@@ -188,7 +189,7 @@ ps
 top
 ```
 
-(скрін команди jobs — вставити тут)
+<a href="https://ibb.co/MLG96CC"><img src="https://i.ibb.co/hvZCfmm/image.png" alt="image" border="0">
 
 ---
 
@@ -251,7 +252,7 @@ top
 Ctrl + Z
 ```
 
-(скрін призупинення top — вставити тут)
+<a href="https://ibb.co/v4yWVQS3"><img src="https://i.ibb.co/tpj6Qx9q/image.png" alt="image" border="0">
 
 ---
 
@@ -261,7 +262,7 @@ Ctrl + Z
 ps
 ```
 
-(скрін ps — вставити тут)
+<a href="https://ibb.co/XZ00JjWc"><img src="https://i.ibb.co/GvYYPndz/image.png" alt="image" border="0">
 
 ---
 
@@ -291,11 +292,14 @@ ps -ejH
 
 Показує ієрархію процесів.
 
+<a href="https://ibb.co/yngGkNFg"><img src="https://i.ibb.co/1fRhX0GR/image.png" alt="image" border="0">
+
 4. Детальна інформація:
 
 ```bash
 ps -ef
 ```
+<a href="https://ibb.co/SDg3K8qj"><img src="https://i.ibb.co/XfPCzgmQ/image.png" alt="image" border="0">
 
 Повний формат відображення процесів.
 
@@ -307,7 +311,7 @@ ps -A
 
 Показує всі системні процеси.
 
-(скріни кожної команди ps — вставити після кожного прикладу)
+<a href="https://ibb.co/rNB8wTd"><img src="https://i.ibb.co/Wjr82qV/image.png" alt="image" border="0">
 
 ---
 
@@ -319,8 +323,6 @@ ps -A
 jobs
 ```
 
-(скрін jobs — вставити тут)
-
 ---
 
 ## Відновлення призупиненого процесу
@@ -330,8 +332,6 @@ jobs
 ```bash
 fg %1
 ```
-
-(скрін fg — вставити тут)
 
 2. Знову призупинити:
 
@@ -345,15 +345,12 @@ Ctrl + Z
 bg %1
 ```
 
-(скрін bg — вставити тут)
 
 4. Завершення фонового процесу:
 
 ```bash
 kill %1
 ```
-
-(скрін завершення процесу — вставити тут)
 
 ---
 
@@ -478,3 +475,23 @@ iOS:
 
 ```
 ```
+# Висновок
+
+
+У ході виконання лабораторної роботи було вивчено принципи роботи з процесами в операційній системі Linux та засоби їх моніторингу через командний рядок. Було розглянуто призначення віртуальної директорії `/proc`, яка містить інформацію про стан системи, ресурси та запущені процеси.
+
+У процесі роботи було досліджено основні команди для моніторингу та керування процесами, такі як `ps`, `top`, `htop`, `jobs`, `bg`, `fg`, `kill`. З’ясовано, що команда `ps` відображає статичний стан процесів, тоді як `top` дозволяє здійснювати динамічний моніторинг у реальному часі та аналізувати використання процесора і пам’яті.
+
+Було отримано практичні навички перегляду списку процесів, визначення найбільш ресурсомістких процесів, призупинення та відновлення їх виконання, переведення процесів у фоновий та передній режими, а також завершення роботи процесів різними способами. Окрему увагу приділено роботі з фоновими задачами та їх ролі в багатозадачному середовищі Linux.
+
+Отже, лабораторна робота дозволила закріпити теоретичні знання та набути практичних навичок роботи з процесами в Linux, що є важливим для ефективного адміністрування системи, моніторингу її стану та оптимального використання системних ресурсів.
+
+---
+# Conclusion
+During this laboratory work, the principles of working with processes in the Linux operating system and the tools for monitoring them via the command-line interface were studied. The purpose of the virtual `/proc` directory was examined, as it stores real-time information about the system state, resources, and running processes.
+
+The main commands for process monitoring and management were analyzed, including `ps`, `top`, `htop`, `jobs`, `bg`, `fg`, and `kill`. It was determined that the `ps` command provides a static snapshot of processes, while `top` enables real-time dynamic monitoring and allows analysis of CPU and memory usage.
+
+Practical skills were acquired in viewing the list of processes, identifying the most resource-intensive processes, suspending and resuming their execution, managing foreground and background processes, and terminating processes using different commands. Special attention was given to background jobs and their role in the multitasking environment of Linux systems.
+
+Therefore, the laboratory work helped reinforce theoretical knowledge and develop practical skills in process management in Linux, which are essential for effective system administration, performance monitoring, and efficient use of system resources.
