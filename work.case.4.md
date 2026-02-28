@@ -144,6 +144,31 @@ sudo apt install build-essential
 
 ---
 
+# 4. Встановлення програм через графічне середовище
+
+## 4.1 Через Ubuntu Software
+
+1. Відкрити програму **Ubuntu Software**  
+2. Ввести назву програми у пошуку  
+3. Натиснути **Install**  
+4. Ввести пароль користувача  
+
+---
+
+## 4.2 Через Snap
+
+```bash
+sudo snap install spotify
+```
+
+---
+
+## 4.3 Через Flatpak
+
+```bash
+flatpak install flathub org.videolan.VLC
+```
+
 # Висновок
 
 Менеджер пакетів **APT** дозволяє:
