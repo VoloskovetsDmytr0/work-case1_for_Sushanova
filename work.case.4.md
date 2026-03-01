@@ -20,10 +20,27 @@
 ## 1.2 Що таке репозиторій?
 
 **Репозиторій** — це сервер або онлайн-сховище, де зберігаються пакети програмного забезпечення.
+---
+# 1.3 Словник
+
+| Term | Definition |
+|------|------------|
+| Package | A compressed file that contains software, libraries, and metadata. |
+| Repository | An online storage location where software packages are kept. |
+| Package Manager | A tool used to install, update, and remove software. |
+| APT | Advanced Package Tool used in Debian-based systems like Ubuntu. |
+| Dependency | A required package that another program needs to function properly. |
+| Upgrade | The process of updating installed software to a newer version. |
+| Remove | To uninstall a package from the system. |
+| Purge | To completely remove a package including its configuration files. |
+| Snap | A universal Linux package format developed by Canonical. |
+| Flatpak | A universal package system that runs applications in isolated environments. |
+| Terminal | A command-line interface used to interact with the system. |
+| PPA | Personal Package Archive — an additional software repository. |
 
 ---
 
-## 1.3 Огляд менеджерів пакетів у Linux
+## 1.4 Огляд менеджерів пакетів у Linux
 
 | Дистрибутив | Менеджер | Формат | Основні можливості |
 |------------|----------|--------|--------------------|
@@ -155,20 +172,26 @@ sudo apt install build-essential
 
 # 4. Встановлення програм через графічне середовище
 
+
 ## 4.1 Через App Center
 
 1. Відкрити програму **App Center**  
-2. Ввести назву програми у пошуку  
-3. Натиснути **Install**  
-4. Ввести пароль користувача
-[🔎 Переглянути скріншот](https://ibb.co/G4s1WHx6)  
+2. Ввести назву програми у рядку пошуку  
+3. Обрати потрібну програму зі списку  
+4. Натиснути кнопку **Install**  
+5. Ввести пароль користувача для підтвердження встановлення  
+
+---
+
+[🔎 Переглянути скріншот 1](https://ibb.co/G4s1WHx6)  
 <img src="https://i.ibb.co/1tsprzvg/image.png" width="700">
 
-[🔎 Переглянути скріншот](https://ibb.co/WW14Xx2p)  
+[🔎 Переглянути скріншот 2](https://ibb.co/WW14Xx2p)  
 <img src="https://i.ibb.co/svrd4mVJ/image.png" width="700">
 
-[🔎 Переглянути скріншот](https://ibb.co/5XzCJdMn)  
+[🔎 Переглянути скріншот 3](https://ibb.co/5XzCJdMn)  
 <img src="https://i.ibb.co/qL4h2zyW/image.png" width="700">
+
 
 ---
 
@@ -187,6 +210,7 @@ sudo snap install vlc
 ```bash
 flatpak install flathub org.videolan.VLC
 ```
+
 [🔎 Переглянути скріншот](https://ibb.co/tTSHXsbT)  
 <img src="https://i.ibb.co/ycDNSy8c/image.png" width="700">
 
@@ -205,3 +229,19 @@ flatpak install flathub org.videolan.VLC
 - працювати з репозиторіями.
 
 Робота може виконуватися як через термінал, так і через графічний магазин App Center.
+
+# Conclusion
+
+During this work-case, we studied the concept of Linux package management using Ubuntu.  
+We learned what a package and a repository are, and how they interact within the operating system.
+We explored the APT (Advanced Package Tool) package manager and practiced the basic commands such as:
+
+- updating package lists,
+- searching for software,
+- installing and removing packages,
+- upgrading the system,
+- managing repositories.
+
+We also installed a multimedia player and a programming environment using the terminal.  
+Additionally, we learned how to install applications through the graphical App Center center.
+
