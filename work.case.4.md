@@ -183,13 +183,13 @@ sudo apt install build-essential
 
 ---
 
-[🔎 Переглянути скріншот 1](https://ibb.co/G4s1WHx6)  
+[🔎 Переглянути скріншот](https://ibb.co/G4s1WHx6)  
 <img src="https://i.ibb.co/1tsprzvg/image.png" width="700">
 
-[🔎 Переглянути скріншот 2](https://ibb.co/WW14Xx2p)  
+[🔎 Переглянути скріншот](https://ibb.co/WW14Xx2p)  
 <img src="https://i.ibb.co/svrd4mVJ/image.png" width="700">
 
-[🔎 Переглянути скріншот 3](https://ibb.co/5XzCJdMn)  
+[🔎 Переглянути скріншот](https://ibb.co/5XzCJdMn)  
 <img src="https://i.ibb.co/qL4h2zyW/image.png" width="700">
 
 
