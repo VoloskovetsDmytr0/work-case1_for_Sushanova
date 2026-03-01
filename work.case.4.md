@@ -146,20 +146,30 @@ sudo apt install build-essential
 
 # 4. Встановлення програм через графічне середовище
 
-## 4.1 Через Ubuntu Software
+## 4.1 Через App Center
 
-1. Відкрити програму **Ubuntu Software**  
+1. Відкрити програму **App Center**  
 2. Ввести назву програми у пошуку  
 3. Натиснути **Install**  
-4. Ввести пароль користувача  
+4. Ввести пароль користувача
+[🔎 Переглянути скріншот](https://ibb.co/G4s1WHx6)  
+<img src="https://i.ibb.co/1tsprzvg/image.png" width="700">
+
+[🔎 Переглянути скріншот](https://ibb.co/WW14Xx2p)  
+<img src="https://i.ibb.co/svrd4mVJ/image.png" width="700">
+
+[🔎 Переглянути скріншот](https://ibb.co/5XzCJdMn)  
+<img src="https://i.ibb.co/qL4h2zyW/image.png" width="700">
 
 ---
 
 ## 4.2 Через Snap
 
 ```bash
-sudo snap install spotify
+sudo snap install vlc
 ```
+[🔎 Переглянути скріншот](https://ibb.co/pjp4gZ2k)  
+<img src="https://i.ibb.co/m57hmtJP/image.png" width="700">
 
 ---
 
@@ -168,6 +178,14 @@ sudo snap install spotify
 ```bash
 flatpak install flathub org.videolan.VLC
 ```
+[🔎 Переглянути скріншот](https://ibb.co/tTSHXsbT)  
+<img src="https://i.ibb.co/ycDNSy8c/image.png" width="700">
+
+[🔎 Переглянути скріншот](https://ibb.co/7xqg13fg)  
+<img src="https://i.ibb.co/xKNm7nkm/image.png" width="700">
+
+[🔎 Переглянути скріншот](https://ibb.co/Tx6j8JjW)  
+<img src="https://i.ibb.co/tTgjsnjL/image.png" width="700">
 
 # Висновок
 
@@ -177,4 +195,4 @@ flatpak install flathub org.videolan.VLC
 - видаляти пакети;
 - працювати з репозиторіями.
 
-Робота може виконуватися як через термінал, так і через графічний магазин Ubuntu Software.
+Робота може виконуватися як через термінал, так і через графічний магазин App Center.
