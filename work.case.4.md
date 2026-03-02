@@ -21,39 +21,60 @@
 **Репозиторій** — це сервер або онлайн-сховище, де зберігаються пакети програмного забезпечення.
 
 ---
-# 1.3 Словник
+# 📦 Розділ 1: Керування програмним забезпеченням у Linux
 
-| Term | Definition |
-|------|------------|
-| Package | A compressed file that contains software, libraries, and metadata. |
-| Repository | An online storage location where software packages are kept. |
-| Package Manager | A tool used to install, update, and remove software. |
-| APT | Advanced Package Tool used in Debian-based systems like Ubuntu. |
-| Dependency | A required package that another program needs to function properly. |
-| Upgrade | The process of updating installed software to a newer version. |
-| Remove | To uninstall a package from the system. |
-| Purge | To completely remove a package including its configuration files. |
-| Snap | A universal Linux package format developed by Canonical. |
-| Flatpak | A universal package system that runs applications in isolated environments. |
-| Terminal | A command-line interface used to interact with the system. |
-| PPA | Personal Package Archive — an additional software repository. |
+## 1.3 Словник термінів
+
+Нижче наведено ключові поняття, які необхідно знати для роботи з пакунками та репозиторіями.
+
+| Термін | Технічне визначення |
+| :--- | :--- |
+| **Package (Пакет)** | Скомпільований архів, що містить бінарні файли програми, скрипти інсталяції та метадані. |
+| **Repository (Репозиторій)** | Віддалене сховище (сервер), де зберігаються та індексуються програмні пакети. |
+| **Package Manager** | Програмний інструмент для автоматизації встановлення, оновлення та видалення ПЗ. |
+| **APT (Advanced Package Tool)** | Високорівневий менеджер пакетів для систем на базі Debian та Ubuntu. |
+| **Dependency (Залежність)** | Додатковий пакет або бібліотека, необхідна для стабільної роботи основної програми. |
+| **Upgrade (Оновлення)** | Заміна поточної версії встановленого ПЗ на новішу версію з репозиторію. |
+| **Remove (Видалення)** | Деінсталяція виконуваних файлів програми (налаштування зазвичай зберігаються). |
+| **Purge (Очищення)** | Повне видалення пакета разом із його системними конфігураційними файлами. |
+| **Snap** | Універсальний формат пакетів від Canonical, що містить усі залежності всередині. |
+| **Flatpak** | Система розгортання застосунків у ізольованому середовищі (пісочниці). |
+| **Terminal (Термінал)** | Емулятор консолі для взаємодії з операційною системою через текстові команди. |
+| **PPA (Personal Archive)** | Стороннє сховище ПЗ, яке дозволяє отримувати версії програм поза офіційною базою. |
 
 ---
 
-## 1.4 Огляд менеджерів пакетів у Linux
+## 🛠 1.4 Огляд менеджерів пакетів
 
-| Дистрибутив | Менеджер | Формат | Основні можливості |
-|------------|----------|--------|--------------------|
-| Ubuntu, Debian | APT | .deb | Автоматичне вирішення залежностей, оновлення системи |
-| Fedora | DNF | .rpm | Керування репозиторіями, швидке встановлення |
-| Arch Linux | Pacman | .pkg.tar.zst | Простота, швидкість |
-| openSUSE | Zypper | .rpm | Потужна система управління |
-| Універсальний | Snap | .snap | Ізольовані пакети |
-| Універсальний | Flatpak | .flatpak | Контейнерна ізоляція |
+Кожне сімейство дистрибутивів Linux використовує власні стандарти керування софтом.
+
+| Дистрибутив | Команда (CLI) | Формат | Ключові особливості |
+| :--- | :--- | :--- | :--- |
+| **Ubuntu / Debian** | `apt` | `.deb` | Висока стабільність, величезна база готових пакетів. |
+| **Fedora / RHEL** | `dnf` | `.rpm` | Швидка робота з метаданими, підтримка транзакцій. |
+| **Arch Linux** | `pacman` | `.pkg.tar.zst` | Орієнтація на простоту (KISS) та Rolling Release моделі. |
+| **openSUSE** | `zypper` | `.rpm` | Потужна інтеграція з системним інструментом YaST. |
+| **Універсальні** | `snap` | `.snap` | Крос-дистрибутивність, автоматичне оновлення у фоні. |
+| **Універсальні** | `flatpak` | `.flatpak` | Ізоляція від системи, ідеально для графічних застосунків. |
+
+---
+
+### 💡 Приклади базових команд (APT)
+
+Для швидкого старту в Ubuntu/Debian використовуйте наступні команди:
+
+```bash
+# Оновити список доступних пакетів
+sudo apt update
+
+# Встановити програму (наприклад, curl)
+sudo apt install curl
+
+# Видалити програму разом з конфігураціями
+sudo apt purge curl
+```
 
 В Ubuntu використовується **APT (Advanced Package Tool)**.
-
----
 
 # 2. Робота з APT
 
