@@ -372,8 +372,20 @@ rm -r folder_name
 
 ---
 
-## 4. Висновок / Conclusion
+## 4. 📝 Висновок / Conclusion
 
-У ході виконання лабораторної роботи я опанував базові навички роботи в командному рядку (CLI) операційної системи Linux. Було вивчено стандарт ієрархії файлової системи (FHS) та практично відпрацьовано команди навігації, маніпуляції з файлами та каталогами, а також використання шаблонів для фільтрації даних.
+Під час виконання лабораторної роботи було здобуто практичний досвід роботи з інтерфейсом командного рядка (**CLI**) ОС Linux. Основну увагу приділено вивченню архітектури файлової системи за стандартом **FHS** та автоматизації рутинних завдань.
 
-During this laboratory work, I have acquired fundamental skills in working with the Linux Command Line Interface (CLI). I explored the Filesystem Hierarchy Standard (FHS) and gained practical experience with navigation, file and directory manipulation, and the use of globbing patterns for data filtering.
+**Ключові досягнення:**
+* **Навігація та маніпуляції:** Опановано інструменти створення, копіювання, переміщення та видалення об'єктів файлової системи.
+* **Ефективність:** Вивчено механізми використання шаблонів (**globbing**) для швидкої фільтрації та обробки великих масивів даних.
+* **Розуміння структури:** Досліджено призначення основних системних каталогів, що є базою для подальшого адміністрування.
+
+---
+
+During this laboratory work, I have gained hands-on experience with the Linux **Command Line Interface (CLI)**. The focus was on understanding the **Filesystem Hierarchy Standard (FHS)** and automating routine tasks.
+
+**Key Takeaways:**
+* **Navigation & Manipulation:** Mastered tools for creating, copying, moving, and deleting filesystem objects.
+* **Efficiency:** Learned how to apply **globbing patterns** for rapid data filtering and batch processing.
+* **Structural Insight:** Explored the roles of core system directories, establishing a foundation for advanced system administration.
