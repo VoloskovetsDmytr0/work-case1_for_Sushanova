@@ -80,7 +80,9 @@ sudo umount /mnt/usb
 ---
 
 # 🛠 2. Практична частина
-
+<a href="https://ibb.co/hJvbGFV8"><img src="https://i.ibb.co/fz7f3dH0/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/NdDYKQ22"><img src="https://i.ibb.co/5gpcLthh/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/fzhJFVsx/image.png" alt="зображення" border="0"></a>
 ## 2.1 Підключення флешки до VirtualBox
 
 1. Флешка підключена до фізичного комп’ютера.
@@ -91,7 +93,8 @@ Devices → USB → Обрати пристрій
 ```
 
 📸 **Скрін 1 — Підключення флешки у VirtualBox**  
-(вставити скрін тут)
+<a href="https://ibb.co/cchH6pST"><img src="https://i.ibb.co/5Whyrzgc/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Q34DYJbc/image.png" alt="зображення" border="0"></a>
 
 ---
 
@@ -102,14 +105,14 @@ Devices → USB → Обрати пристрій
 3. Скопійовано файл.
 4. Вставлено у домашній каталог.
 
-📸 **Скрін 2 — Відкрита флешка**  
-(вставити скрін тут)
+📸 **Відкрита флешка**  
+<a href="https://ibb.co/1f1xscBY"><img src="https://i.ibb.co/GvyjsmGf/image.png" alt="image" border="0"></a>
 
-📸 **Скрін 3 — Копіювання файлу**  
-(вставити скрін тут)
+📸 **Копіювання файлу**  
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/WvdVvPbG/image.png" alt="зображення" border="0"></a>
 
-📸 **Скрін 4 — Файл у домашній папці**  
-(вставити скрін тут)
+📸 **Файл у домашній папці**  
+<a href="https://ibb.co/zHnVWz2z"><img src="https://i.ibb.co/JFBjW9p9/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -121,8 +124,8 @@ Devices → USB → Обрати пристрій
 lsblk
 ```
 
-📸 **Скрін 5 — Результат lsblk**  
-(вставити скрін тут)
+📸 **Результат lsblk**  
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/rKXYwhGY/image.png" alt="зображення" border="0"></a>
 
 ---
 
@@ -132,9 +135,6 @@ lsblk
 sudo mkdir /mnt/usb
 ```
 
-📸 **Скрін 6 — Створення каталогу**  
-(вставити скрін тут)
-
 ---
 
 ### Монтування
@@ -143,8 +143,8 @@ sudo mkdir /mnt/usb
 sudo mount /dev/sdb1 /mnt/usb
 ```
 
-📸 **Скрін 7 — Монтування флешки**  
-(вставити скрін тут)
+📸 **Монтування флешки**  
+<a href="https://ibb.co/N2Ydj7mM"><img src="https://i.ibb.co/v4z6PDQS/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -154,8 +154,8 @@ sudo mount /dev/sdb1 /mnt/usb
 ls /mnt/usb
 ```
 
-📸 **Скрін 8 — Вміст флешки**  
-(вставити скрін тут)
+📸 **Вміст флешки**  
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/GLHWJNF/image.png" alt="зображення" border="0"></a>
 
 ---
 
@@ -165,8 +165,8 @@ ls /mnt/usb
 cp /mnt/usb/назва_файлу ~/
 ```
 
-📸 **Скрін 9 — Копіювання через cp**  
-(вставити скрін тут)
+📸 **Копіювання через cp**  
+<a href="https://ibb.co/N64D2LzY"><img src="https://i.ibb.co/pvmVj3pX/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -176,8 +176,8 @@ cp /mnt/usb/назва_файлу ~/
 sudo umount /mnt/usb
 ```
 
-📸 **Скрін 10 — Відмонтування**  
-(вставити скрін тут)
+📸 **Відмонтування**  
+<a href="https://ibb.co/b5PZTXcg"><img src="https://i.ibb.co/hFyjbV3R/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -186,5 +186,3 @@ sudo umount /mnt/usb
 У ході виконання роботи було досліджено механізм підключення флеш-накопичувача в операційній системі Linux. Було встановлено, що Linux використовує механізм монтування для інтеграції зовнішніх пристроїв у єдину файлову структуру. Практично було виконано підключення флешки, копіювання файлу через графічний інтерфейс та через термінал, а також безпечне відмонтування пристрою.
 
 During this work, the mechanism of connecting a USB flash drive in the Linux operating system was studied. It was determined that Linux uses the mounting mechanism to integrate external devices into a unified file system structure. In practice, the USB drive was connected, a file was copied using both the graphical interface and terminal commands, and the device was safely unmounted.
-
----
