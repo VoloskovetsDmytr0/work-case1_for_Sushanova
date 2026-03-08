@@ -79,9 +79,15 @@ sudo umount /mnt/usb
 ---
 
 # 🛠 2. Практична частина
-<a href="https://ibb.co/hJvbGFV8"><img src="https://i.ibb.co/fz7f3dH0/image.png" alt="image" border="0"></a>
-<a href="https://ibb.co/NdDYKQ22"><img src="https://i.ibb.co/5gpcLthh/image.png" alt="image" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/fzhJFVsx/image.png" alt="зображення" border="0"></a>
+
+<p align="center">
+  <a href="https://ibb.co/hJvbGFV8"><img src="https://i.ibb.co/fz7f3dH0/image.png" alt="image" border="0" width="80%"></a>
+  <br><br>
+  <a href="https://ibb.co/NdDYKQ22"><img src="https://i.ibb.co/5gpcLthh/image.png" alt="image" border="0" width="80%"></a>
+  <br><br>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/fzhJFVsx/image.png" alt="зображення" border="0" width="80%"></a>
+</p>
+
 ## 2.1 Підключення флешки до VirtualBox
 
 1. Флешка підключена до фізичного комп’ютера.
