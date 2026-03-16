@@ -124,7 +124,7 @@
 mkdir mybackups
 ```
 
-(ТУТ ВСТАВИТИ СКРІНШОТ)
+<a href="https://ibb.co/cSnrgdHy"><img src="https://i.ibb.co/Tx3gv5Sw/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -134,7 +134,7 @@ mkdir mybackups
 tar -cvf mybackups/backup.tar /etc
 ```
 
-(ТУТ ВСТАВИТИ СКРІНШОТ)
+<a href="https://ibb.co/B5G955Ck"><img src="https://i.ibb.co/PvMdvv6k/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -144,7 +144,7 @@ tar -cvf mybackups/backup.tar /etc
 tar -tvf mybackups/backup.tar
 ```
 
-(ТУТ ВСТАВИТИ СКРІНШОТ)
+<a href="https://ibb.co/N6pgd08g"><img src="https://i.ibb.co/BVjH5hXH/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -154,7 +154,7 @@ tar -tvf mybackups/backup.tar
 tar -xvf mybackups/backup.tar
 ```
 
-(ТУТ ВСТАВИТИ СКРІНШОТ)
+<a href="https://ibb.co/5XXGH9Dd"><img src="https://i.ibb.co/GffnSJwX/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -164,7 +164,7 @@ tar -xvf mybackups/backup.tar
 tar -czvf backup.tar.gz folder
 ```
 
-(ТУТ ВСТАВИТИ СКРІНШОТ)
+<a href="https://ibb.co/C4KjvwR"><img src="https://i.ibb.co/VbYFDLf/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -174,7 +174,7 @@ tar -czvf backup.tar.gz folder
 tar -cjvf backup.tar.bz2 folder
 ```
 
-(ТУТ ВСТАВИТИ СКРІНШОТ)
+<a href="https://ibb.co/JW2LyBBT"><img src="https://i.ibb.co/Ps4p9mmy/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -184,7 +184,7 @@ tar -cjvf backup.tar.bz2 folder
 grep "student" file.txt
 ```
 
-(ТУТ ВСТАВИТИ СКРІНШОТ)
+<a href="https://ibb.co/Gf1Jv08h"><img src="https://i.ibb.co/V0hNWtzK/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -194,7 +194,7 @@ grep "student" file.txt
 cat file.txt | sort
 ```
 
-(ТУТ ВСТАВИТИ СКРІНШОТ)
+<a href="https://ibb.co/nscmwWsB"><img src="https://i.ibb.co/zhRxmkhF/image.png" alt="зображення" border="0"></a>
 
 
 
