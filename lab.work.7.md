@@ -79,15 +79,9 @@ echo "Інформація про систему:"
 uname -a
 ````
 
-## ▶️ Запуск
-
-```bash
-bash script1.sh
-```
-
 ## 📸 Результат
 
-![Скріншот виконання script1](images/script1.png)
+<a href="https://ibb.co/N6dPp3M5"><img src="https://i.ibb.co/7Jd5VzqP/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -111,15 +105,10 @@ echo "=== Інформація про PCI пристрої ==="
 lspci
 ```
 
-## ▶️ Запуск
-
-```bash
-bash script2.sh
-```
-
 ## 📸 Результат
 
-![Скріншот виконання script2](images/script2.png)
+<a href="https://ibb.co/xSsH73kh"><img src="https://i.ibb.co/QFcdKXg9/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/35ywWq1K"><img src="https://i.ibb.co/ymnD5102/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -148,16 +137,9 @@ do
 done
 ```
 
-## ▶️ Запуск
-
-```bash
-bash script3.sh
-```
-
 ## 📸 Результат
 
-![Скріншот введення](images/script3_input.png)
-![Скріншот виконання](images/script3_output.png)
+<a href="https://ibb.co/5WkBpDHj"><img src="https://i.ibb.co/zhFG9cv2/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -187,7 +169,7 @@ free -h
 ### Змінні
 
 ```bash
-name="Dima"
+name="Dmytro"
 echo $name
 ```
 
