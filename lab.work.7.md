@@ -81,7 +81,9 @@ uname -a
 
 ## 📸 Результат
 
-<a href="https://ibb.co/N6dPp3M5"><img src="https://i.ibb.co/7Jd5VzqP/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/GQRfhngw"><img src="https://i.ibb.co/KxWc1bCZ/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/dw4nDf17"><img src="https://i.ibb.co/ycFLqNGV/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/K4CLz1h"><img src="https://i.ibb.co/Z4yY1ZX/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -107,8 +109,9 @@ lspci
 
 ## 📸 Результат
 
-<a href="https://ibb.co/xSsH73kh"><img src="https://i.ibb.co/QFcdKXg9/image.png" alt="image" border="0"></a>
-<a href="https://ibb.co/35ywWq1K"><img src="https://i.ibb.co/ymnD5102/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/XkfcTSLr"><img src="https://i.ibb.co/h1x3vD9J/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/KxyHqPvJ"><img src="https://i.ibb.co/tpC5sGr9/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/PGvp6kKr"><img src="https://i.ibb.co/YBF9LgmN/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -139,7 +142,8 @@ done
 
 ## 📸 Результат
 
-<a href="https://ibb.co/5WkBpDHj"><img src="https://i.ibb.co/zhFG9cv2/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/fGCKhXVQ"><img src="https://i.ibb.co/XkzdhWfV/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/zTckcc1z"><img src="https://i.ibb.co/mVsxssm3/image.png" alt="image" border="0"></a>
 
 ---
 
