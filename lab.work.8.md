@@ -1,15 +1,24 @@
 # 🐧 Лабораторна робота №8: "Збереження службових даних системи та її мережева конфігурація"
 
 **👨‍💻 Виконали:** Волосковець Дмитро та Перевишко Денис  
-# Лабораторна робота
-
----
 
 ## Словник термінів
-* **Псевдофайлова система** — віртуальна файлова система, яка не існує на фізичному диску, а створюється ядром ОС в оперативній пам'яті для доступу до інформації про систему та процеси.
-* **CLI (Command Line Interface)** — інтерфейс командного рядка.
-* **FHS (Filesystem Hierarchy Standard)** — стандарт ієрархії файлової системи, що визначає розташування каталогів та файлів у UNIX-подібних ОС.
-* **PID (Process ID)** — унікальний ідентифікатор процесу в системі.
+---
+
+| English Term | Ukrainian Translation | Definition / Context |
+| :--- | :--- | :--- |
+| **Kernel** | Ядро | The core part of the operating system that manages hardware. |
+| **Shell** | Оболонка | A command-line interpreter that provides an interface for users. |
+| **Root** | Суперкористувач | The system administrator account with full privileges (UID 0). |
+| **Filesystem** | Файлова система | The method and data structure that an OS uses to store and organize files. |
+| **Mounting** | Монтування | The process of making a filesystem accessible at a certain point in the directory tree. |
+| **Daemon** | Демон | A background process that runs without direct user interaction (e.g., `sshd`). |
+| **Permission** | Права доступу | Attributes that determine who can read, write, or execute a file. |
+| **Redirection** | Перенаправлення | Sending the output of a command to a file or another device (`>`, `>>`). |
+| **Repository** | Репозиторій | A central location where software packages are stored and maintained. |
+| **Path** | Шлях | The unique location of a file or directory in the system (Absolute or Relative). |
+| **Environment Variable** | Змінна оточення | A dynamic value that can affect the behavior of running processes. |
+| **Socket** | Сокет | An endpoint for communication between processes, often over a network. |
 
 ---
 
