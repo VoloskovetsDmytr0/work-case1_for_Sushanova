@@ -156,8 +156,13 @@ cat -n file.txt        # нумерація рядків
 cat -v file.txt        # показ недрукованих символів
 cat -s file.txt        # видалення зайвих порожніх рядків
 ```
+<details>
+  <summary>Команди</summary>
+<a href="https://ibb.co/sMGKqKt"><img src="https://i.ibb.co/gBpSJS6/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/kgy9cXdY"><img src="https://i.ibb.co/tMhxCDdy/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/CpFRQRcN"><img src="https://i.ibb.co/BHR0B0pd/image.png" alt="image" border="0"></a>
+  </details>
 
----
 
 ## Команда `dig`
 
