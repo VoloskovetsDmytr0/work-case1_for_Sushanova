@@ -120,7 +120,6 @@ cat file.txt
 cat file.txt > file2.txt
 ```
 <a href="https://ibb.co/9S9VL5S"><img src="https://i.ibb.co/cVcCHnV/image.png" alt="image" border="0"></a>
-(перезаписує `file2.txt`)
 
 Додавання в кінець:
 
