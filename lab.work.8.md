@@ -186,26 +186,28 @@ cat -s file.txt        # видалення зайвих порожніх ряд
 ```bash
 dig google.com
 ```
+<a href="https://ibb.co/2Yh2Y5SW"><img src="https://i.ibb.co/7NCcNbQj/image.png" alt="image" border="0"></a>
 
 Отримання IP-адреси домену
 
 ```bash
 dig google.com MX
 ```
+<a href="https://ibb.co/7N42WQct"><img src="https://i.ibb.co/Vpm2SxyY/image.png" alt="image" border="0"></a>
 
 Перегляд поштових серверів
 
 ```bash
 dig -x 8.8.8.8
 ```
+<a href="https://ibb.co/ZpGxRQNw"><img src="https://i.ibb.co/sdbqpTtD/image.png" alt="image" border="0"></a>
 
 Зворотний DNS-запит (IP → домен)
 
 ```bash
 dig @8.8.8.8 google.com
 ```
-
-Запит до конкретного DNS-сервера
+<a href="https://ibb.co/xq36CPj5"><img src="https://i.ibb.co/r2vH7T6y/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -231,33 +233,35 @@ dig @8.8.8.8 google.com
 ```bash
 netstat -tuln
 ```
+<a href="https://ibb.co/cKJKz7yN"><img src="https://i.ibb.co/CpBpxTwn/image.png" alt="image" border="0"></a>
 
 Показує всі відкриті TCP/UDP порти
 
 ```bash
 netstat -ltn
 ```
+<a href="https://ibb.co/LXD0qVw2"><img src="https://i.ibb.co/FLkhfRvj/image.png" alt="image" border="0"></a>
 
 Показує тільки прослуховувані TCP-порти
 
 ```bash
 netstat -an
 ```
+<a href="https://ibb.co/jkgrB06b"><img src="https://i.ibb.co/7t218MYj/image.png" alt="image" border="0"></a>
 
 Виводить всі з’єднання (активні та пасивні)
 
 ```bash
 netstat -r
 ```
+<a href="https://ibb.co/h1XbZgqj"><img src="https://i.ibb.co/G3sytdhL/image.png" alt="image" border="0"></a>
 
 Показує таблицю маршрутизації
 
 ```bash
 netstat -i
 ```
-
-```
-```
+<a href="https://ibb.co/CZfJjLX"><img src="https://i.ibb.co/15ksCcp/image.png" alt="image" border="0"></a>
 ---
 
 ## Контрольні запитання
