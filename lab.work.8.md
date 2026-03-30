@@ -102,7 +102,7 @@
 cat > file.txt
 ````
 
-Після введення команди можна вводити текст. Завершення — `Ctrl + D`.
+<a href="https://ibb.co/GvV6GQTj"><img src="https://i.ibb.co/8DjCGgcV/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -111,15 +111,15 @@ cat > file.txt
 ```bash
 cat file.txt
 ```
-
+<a href="https://ibb.co/zVxV0LLv"><img src="https://i.ibb.co/xqLqRccT/image.png" alt="image" border="0"></a>
 ---
 
 #### 3. Перенаправлення вмісту в інший файл
 
 ```bash
-cat file1.txt > file2.txt
+cat file.txt > file2.txt
 ```
-
+<a href="https://ibb.co/9S9VL5S"><img src="https://i.ibb.co/cVcCHnV/image.png" alt="image" border="0"></a>
 (перезаписує `file2.txt`)
 
 Додавання в кінець:
@@ -127,7 +127,7 @@ cat file1.txt > file2.txt
 ```bash
 cat file1.txt >> file2.txt
 ```
-
+<a href="https://ibb.co/wh0hnQpS"><img src="https://i.ibb.co/PGmG2W1c/image.png" alt="image" border="0"></a>
 ---
 
 #### 4. Об’єднання кількох файлів
@@ -135,7 +135,7 @@ cat file1.txt >> file2.txt
 ```bash
 cat file1.txt file2.txt > result.txt
 ```
-
+<a href="https://ibb.co/TMrLj58S"><img src="https://i.ibb.co/VY3mn8SZ/image.png" alt="image" border="0"></a>
 ---
 
 ### Корисні параметри `cat`
