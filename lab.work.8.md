@@ -7,18 +7,18 @@
 
 | English Term | Ukrainian Translation | Definition / Context |
 | :--- | :--- | :--- |
-| **Kernel** | Ядро | The core part of the operating system that manages hardware. |
-| **Shell** | Оболонка | A command-line interpreter that provides an interface for users. |
-| **Root** | Суперкористувач | The system administrator account with full privileges (UID 0). |
-| **Filesystem** | Файлова система | The method and data structure that an OS uses to store and organize files. |
-| **Mounting** | Монтування | The process of making a filesystem accessible at a certain point in the directory tree. |
-| **Daemon** | Демон | A background process that runs without direct user interaction (e.g., `sshd`). |
-| **Permission** | Права доступу | Attributes that determine who can read, write, or execute a file. |
-| **Redirection** | Перенаправлення | Sending the output of a command to a file or another device (`>`, `>>`). |
-| **Repository** | Репозиторій | A central location where software packages are stored and maintained. |
-| **Path** | Шлях | The unique location of a file or directory in the system (Absolute or Relative). |
-| **Environment Variable** | Змінна оточення | A dynamic value that can affect the behavior of running processes. |
-| **Socket** | Сокет | An endpoint for communication between processes, often over a network. |
+| **Kernel** | Ядро | Основна частина операційної системи, яка управляє апаратним забезпеченням. |
+| **Shell** | Оболонка | Інтерпретатор командного рядка, який надає інтерфейс для користувачів. |
+| **Root** | Суперкористувач | Обліковий запис системного адміністратора з повними привілеями (UID 0). |
+| **Filesystem** | Файлова система | Метод і структура даних, які ОС використовує для зберігання та організації файлів. |
+| **Mounting** | Монтування | Процес створення файлової системи, доступної в певній точці дерева каталогів. |
+| **Daemon** | Демон | Фоновий процес, який працює без безпосередньої взаємодії з користувачем (наприклад, `sshd`). |
+| **Permission** | Права доступу | Атрибути, які визначають, хто може читати, писати або виконувати файл. |
+| **Redirection** | Перенаправлення | Відправка виводу команди на файл або інший пристрій (`>`, `>>`). |
+| **Repository** | Репозиторій | Центральне місце, де зберігаються та обслуговуються програмні пакети. |
+| **Path** | Шлях | Унікальне розташування файлу або каталогу в системі (Absolute або Relative). |
+| **Environment Variable** | Змінна оточення | Динамічне значення, яке може вплинути на поведінку запущених процесів. |
+| **Socket** | Сокет | Кінцева точка для зв'язку між процесами, часто через мережу. |
 
 ---
 
