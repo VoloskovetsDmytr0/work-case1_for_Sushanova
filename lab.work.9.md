@@ -61,8 +61,9 @@
 id
 grep $USER /etc/passwd
 ```
-> **[СКРІНШОТ: Вивід інформації id та grep]**
-> (місце для скріншоту)
+> **[Вивід інформації id та grep]**
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JWG5FZv1/image.png" alt="зображення" border="0"></a>
 
 **2. Моніторинг активності (last, w, who):**
 * `who` — показує лише хто увійшов.
@@ -73,8 +74,12 @@ last -n 5
 w
 who
 ```
-> **[СКРІНШОТ: Порівняння виводу last, w, who]**
-> (місце для скріншоту)
+> **[Порівняння виводу last, w, who]**
+
+<a href="https://ibb.co/B5VRBnZY"><img src="https://i.ibb.co/bMgnXbBG/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/zWFdZxyf"><img src="https://i.ibb.co/20SJdhDK/image.png" alt="image" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/bjPVXr9F/image.png" alt="зображення" border="0"></a>
 
 **3. Керування групами та користувачами:**
 Створюємо групи `super_admins`, `noob_users` та `good_students`, а також трьох користувачів.
@@ -95,7 +100,10 @@ sudo usermod -aG super_admins,noob_users,good_students user_beta
 sudo usermod -aG noob_users,good_students user_gamma
 ```
 > **[СКРІНШОТ: Створення груп та користувачів]**
-> (місце для скріншоту)
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0pTCZwCH/image.png" alt="зображення" border="0"></a>
+<a href="https://ibb.co/m5XtBkQq"><img src="https://i.ibb.co/RTBPSfL0/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/6RQ1dxJN"><img src="https://i.ibb.co/pvqRm8rn/image.png" alt="image" border="0"></a>
 
 **4. Перевірка складу груп та очищення:**
 ```bash
