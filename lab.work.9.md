@@ -130,7 +130,6 @@ sudo groupdel good_students
 
 ## 5. Висновки / Conclusions
 
-**Укр:** Під час виконання лабораторної роботи я вивчив інструменти адміністрування користувачів та груп в Linux. Я навчився створювати облікові записи, керувати правами доступу через групи та використовувати утиліти для моніторингу безпеки системи. Отримані навички є базовими для захисту системи та розмежування прав користувачів.
+Під час виконання лабораторної роботи я вивчив інструменти адміністрування користувачів та груп в Linux. Я навчився створювати облікові записи, керувати правами доступу через групи та використовувати утиліти для моніторингу безпеки системи. Отримані навички є базовими для захисту системи та розмежування прав користувачів.
 
-**Eng:** During this laboratory work, I studied the tools for user and group administration in Linux. I learned how to create accounts, manage access rights through groups, and use utilities to monitor system security. The skills acquired are fundamental for protecting the system and separating user permissions.
-```
+During this laboratory work, I studied the tools for user and group administration in Linux. I learned how to create accounts, manage access rights through groups, and use utilities to monitor system security. The skills acquired are fundamental for protecting the system and separating user permissions.
