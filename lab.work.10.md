@@ -282,6 +282,8 @@ sudo -u user2 rm shared_secure_dir/file1.txt
 
 ---
 
-## Conclusion
+## Висновок / Conclusion
+
+Під час виконання лабораторної роботи було успішно досліджено базові принципи управління безпекою у файловій системі ОС Linux. За допомогою інтерфейсу командного рядка та основних утиліт керування доступом (`chmod`, `chown`, `chgrp`) було на практиці відпрацьовано механізми динамічної зміни прав та власників файлів. 
 
 During this laboratory work, the fundamental principles of Linux file security were successfully explored. Key access management tools, including `chmod`, `chown`, and `chgrp`, were utilized to dynamically adjust file permissions and ownership via the command-line interface. Furthermore, advanced permission attributes such as SUID, SGID, and the sticky bit were investigated, revealing their critical role in configuring secure shared directories and controlling executable privileges. Practical tasks effectively reinforced the theoretical background, specifically in managing user environments, deploying symbolic and hard links, and ensuring proper system isolation. 
