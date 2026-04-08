@@ -104,7 +104,7 @@ id user2
 id user3
 ```
 
-*[Місце для скріншоту: виконання команд створення та вивід команди id]*
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/rKncxBT3/image.png" alt="зображення" border="0"></a>
 
 ---
 
@@ -128,7 +128,7 @@ sudo chmod 750 test_script.sh
 ls -l test_script.sh
 ```
 
-*[Місце для скріншоту: створення файлу та вивід команди ls -l]*
+<a href="https://ibb.co/RGQm6VGk"><img src="https://i.ibb.co/TDPS0FDx/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -156,7 +156,7 @@ chmod 750 dir_group_readonly
 ls -ld dir_*
 ```
 
-*[Місце для скріншоту: вивід ls -ld з правами на створені директорії]*
+<a href="https://ibb.co/cKHFjDTp"><img src="https://i.ibb.co/0pSMxhJW/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -177,7 +177,7 @@ chmod 44 emptyfile
 ls -l emptyfile
 ```
 
-*[Місце для скріншоту: результати виконання цих команд]*
+<a href="https://ibb.co/hJH8QDJf"><img src="https://i.ibb.co/67bs9g7B/image.png" alt="image" border="0"></a>
 
 **Пояснення (відповідь на запитання):**
 Коли ми передаємо команді `chmod` числове значення, що складається менш ніж з трьох цифр, вона автоматично доповнює його нулями зліва. 
