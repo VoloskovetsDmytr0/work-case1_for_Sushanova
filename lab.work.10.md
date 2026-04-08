@@ -206,7 +206,7 @@ sudo chmod 3777 shared_secure_dir
 ls -ld shared_secure_dir
 ```
 
-*[Місце для скріншоту: вивід ls -ld для каталогу shared_secure_dir]*
+<a href="https://ibb.co/B25NmDmC"><img src="https://i.ibb.co/Mkx6bTbC/image.png" alt="image" border="0"></a>
 
 ---
 
@@ -225,7 +225,7 @@ sudo -u user1 bash -c 'cd shared_secure_dir && ln -s file1.txt sl_file1.txt'
 ls -li shared_secure_dir
 ```
 
-*[Місце для скріншоту: створення файлів та посилань]*
+<a href="https://ibb.co/NfsM7Kv"><img src="https://i.ibb.co/qhdvxpS/image.png" alt="image" border="0"></a>
 
 **Перевірка перегляду та видалення іншими користувачами:**
 ```bash
@@ -236,7 +236,7 @@ sudo -u user2 cat shared_secure_dir/file1.txt
 sudo -u user2 rm shared_secure_dir/file1.txt
 ```
 
-*[Місце для скріншоту: спроби перегляду (успішна) та видалення (з помилкою)]*
+<a href="https://ibb.co/WNk5kTbS"><img src="https://i.ibb.co/spKRKB0L/image.png" alt="image" border="0"></a>
 
 ---
 
