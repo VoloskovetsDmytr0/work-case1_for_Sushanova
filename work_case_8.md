@@ -80,7 +80,7 @@ Linux має багато вбудованих жартів, які допома
     * *Команда:* `pacman`
 >  <a href="https://ibb.co/7tdTQkJg"><img src="https://i.ibb.co/VYchxwWH/image.png" alt="image" border="0"></a>
 * **Діалог з коровою:** Команда `cowsay`. Корова "виголошує" будь-який ваш текст.
-    * *Команда:* `cowsay "IN THE AIR TONIGHT!"`
+    * *Команда:* `cowsay "IN THE AIR TONIGHT"`
 >  <a href="https://imgbb.com/"><img src="https://i.ibb.co/tMCYyzLT/image.png" alt="зображення" border="0"></a>
 * **"Матриця":** Утиліта `cmatrix`. Створює ефект падаючого зеленого коду, як у однойменному фільмі.
     * *Команда:* `cmatrix`
