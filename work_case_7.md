@@ -46,12 +46,12 @@
 
 Для демонстрації роботи було відкрито файл розкладу командою `crontab -e` та додано наступні правила.
 
-*[Місце для скріншоту: Відкритий термінал з виконаною командою crontab -e та доданими правилами]*
+<a href="https://ibb.co/5WL1rBxk"><img src="https://i.ibb.co/0jrnChVK/image.png" alt="image" border="0"></a>
 
 **2.1. Виконання задачі в чітко визначений час (о 08:30)**
 Щоденне створення резервної копії каталогу з документами о 8:30 ранку:
 ```bash
-30 8 * * * tar -czf /home/user/backup_$(date +\%F).tar.gz /home/user/Documents
+30 8 * * * tar -czf /home/user/backup_$(date +\%F).tar.gz /home/vboxuser/Documents
 ```
 
 **2.2. Виконання однієї й тієї ж задачі двічі в день**
@@ -85,7 +85,7 @@ Cron підтримує спеціальні рядки для спрощенн�
 @reboot /home/user/scripts/startup_app.sh
 ```
 
-*[Місце для скріншоту: Вивід команди `crontab -l`, яка показує збережений список завдань]*
+<a href="https://ibb.co/HDt3n1Qb"><img src="https://i.ibb.co/QFPtrzGT/image.png" alt="image" border="0"></a>
 
 ---
 
