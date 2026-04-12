@@ -57,32 +57,32 @@
 **2.2. Виконання однієї й тієї ж задачі двічі в день**
 Очищення тимчасової папки о 08:00 та о 20:00 щодня:
 ```bash
-0 8,20 * * * rm -rf /home/user/tmp_files/*
+0 8,20 * * * rm -rf /home/vboxuser/tmp_files/*
 ```
 
 **2.3. Виконання задачі тільки в будні у чітко визначений проміжок часу**
 Запуск скрипта перевірки доступності мережевого вузла щогодини з 8:00 до 18:00 з понеділка по п'ятницю:
 ```bash
-0 8-18 * * 1-5 /home/user/scripts/ping_check.sh
+0 8-18 * * 1-5 /home/vboxuser/scripts/ping_check.sh
 ```
 
 **2.4. Виконання задач з використанням спеціальних макросів**
 Cron підтримує спеціальні рядки для спрощення синтаксису:
 ```bash
 # Раз у рік (1 січня) - архівування старих логів
-@yearly /home/user/scripts/archive_logs.sh
+@yearly /home/vboxuser/scripts/archive_logs.sh
 
 # Раз у місяць (1 числа) - оновлення пакетів
 @monthly sudo apt update && sudo apt upgrade -y
 
 # Раз у день (опівночі) - генерація звіту
-@daily /home/user/scripts/daily_report.sh
+@daily /home/vboxuser/scripts/daily_report.sh
 
 # Щогодини - синхронізація часу
 @hourly ntpdate pool.ntp.org
 
 # При вмиканні (після перезавантаження) - запуск власного фонового додатку
-@reboot /home/user/scripts/startup_app.sh
+@reboot /home/vboxuser/scripts/startup_app.sh
 ```
 
 <a href="https://ibb.co/HDt3n1Qb"><img src="https://i.ibb.co/QFPtrzGT/image.png" alt="image" border="0"></a>
@@ -96,18 +96,18 @@ Cron підтримує спеціальні рядки для спрощенн�
 **Методика налаштування задачі (на прикладі щоденного бекапу о 8:30):**
 
 1. Створено service-файл, який описує, *що* саме треба зробити.
-Шлях: `~/.config/systemd/user/mybackup.service`
+Шлях: `~/.config/systemd/vboxuser/mybackup.service`
 ```ini
 [Unit]
 Description=My Backup Task
 
 [Service]
 Type=oneshot
-ExecStart=/bin/tar -czf /home/user/backup.tar.gz /home/user/Documents
+ExecStart=/bin/tar -czf /home/vboxuser/backup.tar.gz /home/vboxuser/Documents
 ```
 
 2. Створено timer-файл, який описує, *коли* це треба зробити.
-Шлях: `~/.config/systemd/user/mybackup.timer`
+Шлях: `~/.config/systemd/vboxuser/mybackup.timer`
 ```ini
 [Unit]
 Description=Run backup at 8:30 AM daily
