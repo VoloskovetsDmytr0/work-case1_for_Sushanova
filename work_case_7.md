@@ -132,7 +132,7 @@ systemctl --user enable --now mybackup.timer
 systemctl --user list-timers
 ```
 
-*[Місце для скріншоту: Термінал з виводом команди `systemctl --user list-timers`, де видно доданий mybackup.timer і час його наступного запуску]*
+<a href="https://ibb.co/nsrR3rJv"><img src="https://i.ibb.co/Kj6mN6vk/image.png" alt="image" border="0"></a>
 
 ## Висновки / Conclusions
 
