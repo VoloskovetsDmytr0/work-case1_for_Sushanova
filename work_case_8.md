@@ -30,7 +30,7 @@
 * **Інструмент:** `cmus` (C* Music Player)
 * **Пояснення:** Легкий та швидкий аудіоплеєр з підтримкою бібліотек, фільтрів та плейлистів.
 * **Команда:** `cmus`
-* 
+
 > <a href="https://ibb.co/S7Q2M6XT"><img src="https://i.ibb.co/tPZSvHMf/image.png" alt="image" border="0"></a>
 
 ### Скачування торентів
