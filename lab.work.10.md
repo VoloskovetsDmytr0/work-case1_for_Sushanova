@@ -130,6 +130,9 @@ ls -l test_script.sh
 
 <a href="https://ibb.co/RGQm6VGk"><img src="https://i.ibb.co/TDPS0FDx/image.png" alt="image" border="0"></a>
 <a href="https://ibb.co/WWt7qP9s"><img src="https://i.ibb.co/HDdR1xvX/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/QFNkyqgJ"><img src="https://i.ibb.co/ynypHM9N/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/1tjQxJQN"><img src="https://i.ibb.co/NdbCznCq/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/Vc8t6nKk"><img src="https://i.ibb.co/v68H9ytM/image.png" alt="image" border="0"></a>
 ---
 
 ## 2.3 Налаштування прав доступу для директорій
