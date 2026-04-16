@@ -129,7 +129,7 @@ ls -l test_script.sh
 ```
 
 <a href="https://ibb.co/RGQm6VGk"><img src="https://i.ibb.co/TDPS0FDx/image.png" alt="image" border="0"></a>
-
+<a href="https://ibb.co/WWt7qP9s"><img src="https://i.ibb.co/HDdR1xvX/image.png" alt="image" border="0"></a>
 ---
 
 ## 2.3 Налаштування прав доступу для директорій
